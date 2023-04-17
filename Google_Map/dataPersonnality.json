@@ -1,0 +1,86 @@
+[
+   {
+     "nom": "mohammedi djamel",
+     "email": "djamel.mohammedi@lycee-jeanrostand.fr",
+     "markers": [
+       {
+ 
+         "latLng": {"lat":48.955614534096924,"lng": 2.601506937315464},
+         "namePlace":"Ecole Julio Curie",
+         "commentaire": "Mon ecole primaire",
+         "photo": "https://cloudfront-eu-central-1.images.arcpublishing.com/leparisien/QQGLMH5IIID2YJQ4DMPLRZSVGI.jpg"
+		 },
+
+       {
+         
+         "latLng": {"lat":19.935089642593063,"lng": -159.34124527282893}, 
+         "namePlace":"Hawaii",
+         "commentaire": "Une jolie Ile",
+         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA2OMBDu1Guzm21zynLd6CAJrpvWTBqGoc_w&usqp=CAU"
+       },
+
+       {
+         
+         "latLng": {"lat":-33.848953648513074, "lng": 151.21759195242413},  
+         "namePlace":"Sydnet",
+         "commentaire": "L'opera de Sydnet!!",
+         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4OPMJ6we26MGvP4BivKtvrs3qmhYp10jzw&usqp=CAU"
+       }
+	
+	]
+	
+	},
+
+   {
+     "nom": "exemple",
+     "email": "exemple@gmail.com",
+     "markers": [
+       {
+         
+		 "latLng": {"lat":28.264311186664003,"lng": 1.9492205710661796},
+         "namePlace":"Algerie",
+         "commentaire": "Voici un paysage de l'Algerie",
+         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8A_IyWXnevvwy3_vngnmLWsuWkhc6FKtSQ&usqp=CAU"
+       },
+	   
+	   {
+         
+         "latLng": {"lat":48.95552099822238,"lng":  2.6014245347752802},
+         "namePlace":"Ecole maternel",
+         "commentaire": "Ecole maternel Elsa Triolet",
+         "photo": "https://www.semmy.fr/wp-content/uploads/Ecole-Triolet-provisoire-Apuy-Archicture-400x200.jpg"
+       }
+     ]
+	 
+	 },
+
+   {
+     "nom": "Djadja",
+     "email": "djadja@gmail.com",
+     "markers": [
+       {
+         
+		 "latLng": {"lat":48.9590349,"lng":2.5475558},
+         "namePlace":"Lycée Jean Rostand",
+         "commentaire": "Mon lycée",
+         "photo": "https://www.caue-observatoire.fr/wp-content/uploads/2015/12/93_f5334bdb-88d6-4c9b-a040-36e573aa63ce_1.jpg"
+       },
+	   
+	   {
+         
+         "latLng": {"lat":-21.048030870205075,"lng": 55.42723753807348},
+         "namePlace":"Île de la Réunion",
+         "commentaire": "L'ile qui me fait rever",
+         "photo": "https://habiter-la-reunion.re/wp-content/uploads/2020/02/mafate_ile_Re%CC%81union.jpg"
+       }
+     ]
+	 
+   }
+	
+	
+	
+	
+	
+	
+	
+]

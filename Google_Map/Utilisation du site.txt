@@ -1,0 +1,2 @@
+Le site doit être mis dans le répertoire www de wampserver.
+Puis, sur le navigateur mettre lacalhost/Google_Map.
